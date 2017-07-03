@@ -10,6 +10,7 @@ In the morning, we participated in a 30min Meditation session, which was an fant
 
 We had lunch with Adel Smee and [Adam Rice](www.twitter.com/HashNotAdam) to kick off our first day and mark the occasion at [YUZU](https://www.zomato.com/melbourne/yuzu-at-church-lane-collins-street).
 After lunch [Simon Hilderbrandt](https://au.linkedin.com/in/simonhildebrandt) stopped by to assist us with setting up our [daily logs](https://ifpairelseunknown.github.io/).
+[Tim Moore](https://twitter.com/tmoore) was also available online to answer any questions we had.
 
 ## Completed to date:
 * Filled out team info on RGSoC
@@ -26,10 +27,10 @@ After lunch [Simon Hilderbrandt](https://au.linkedin.com/in/simonhildebrandt) st
 * Review ifme code
 * Review and prioritise [Feature Work](https://github.com/julianguyen/ifme/wiki/Rails-Girls-Summer-of-Code-2017)
 * Schedule a time to go over refactoring with Adam
-* Watch recommended RoR talk on [Michael Dawson- The biggest cause of bugs in your application: 'git commit'] (https://youtu.be/JSfjV6-IAjQ)
+* Watch recommended RoR talk on [Michael Dawson- The biggest cause of bugs in your application: 'git commit'](https://youtu.be/JSfjV6-IAjQ)
 * Set up remote pair programming
 * Complete [Contributor blurb](https://www.if-me.org/contributors) for ifme
 
 > We are blessed to have the support of our local Ruby community and RGSoC organisation.
-__Thank You to__ our wonderful coaches; Adel Smee, Adam Rice, Simon Hilderbrandt and [Tim Moore](https://twitter.com/tmoore), our project mentor [Julia Nguyen](https://twitter.com/fleurchild) and RGSoC supervisor Vi Nguyen.
+__Thank You to__ our wonderful coaches; Adel Smee, Adam Rice, Simon Hilderbrandt and Tim Moore, our project mentor [Julia Nguyen](https://twitter.com/fleurchild) and RGSoC supervisor Vi Nguyen.
 
