@@ -34,3 +34,33 @@ After lunch [Simon Hilderbrandt](https://au.linkedin.com/in/simonhildebrandt) st
 > We are blessed to have the support of our local Ruby community and RGSoC organisation.
 __Thank You to__ our wonderful coaches; Adel Smee, Adam Rice, Simon Hilderbrandt and Tim Moore, our project mentor [Julia Nguyen](https://twitter.com/fleurchild) and RGSoC supervisor Vi Nguyen.
 
+_4th July 2017_
+# Day 02:
+__Hello World!__
+
+## Things we did:
+* Introduction to Zendesk team at Retro
+* Sync with Julia (Project Mentor)
+* Prioritised feature work and tasks on Trello board
+* Continued setting up Dev environments
+* Watched recommended RoR talk on [Michael Dawson- The biggest cause of bugs in your application: 'git commit'](https://youtu.be/JSfjV6-IAjQ)
+* Github learning session with Adel Smee
+* Scheduled time with Adam Rice to go over refactoring
+* Updated Ruby version 2.3.1 to Ruby version 2.3.4
+
+## Things we learnt:
+* How to use the coffee machine
+* Best way to commit to git
+* How to priortise work load in Trello
+* Using Source Tree with Git
+* How to use Zoom for meetings
+* How a 'Retro' is run
+
+## To Do:
+* Meet with Vi (Supervisor)
+* Sync with team 11am
+* Set up remote pair programming
+* Complete [Contributor blurb](https://www.if-me.org/contributors) for ifme
+* JS Test for missing specs
+
+
