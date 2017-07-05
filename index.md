@@ -1,3 +1,28 @@
+_5th July 2017_
+# Day 03:
+__Hello World!__
+
+## Things we did:
+* Met our awesome Supervisor, Vi Nguyen
+* Synced with the team in 3 different cities via [Zoom](https://zoom.us)
+* Setup [SourceTree](https://www.sourcetreeapp.com/) / [SmartGit](http://www.syntevo.com/smartgit)
+* Converted [ifPairElseUnknown Github](https://github.com/ifPairElseUnknown) into an organisation
+* Updated Ruby version to 2.3.4
+* Rebased from master 
+* Completed and pushed [Contributor blurb](https://www.if-me.org/contributors) for ifme 
+* Added our blogs into RGSoC Team App
+
+## Things we learnt:
+* We have great support from the supervisor, coaches, and mentor
+* The difference between rebase and merge in github
+* How to create cartoon mangas
+
+## To Do:
+* Set up remote pair programming
+* JS Test for missing specs
+* Write first draft for RGSoC blog
+
+
 _4th July 2017_
 # Day 02:
 __Hello World!__
