@@ -23,6 +23,8 @@ __Hello World!__
 * Write first draft for RGSoC blog
 
 
+
+
 _4th July 2017_
 # Day 02:
 __Hello World!__
@@ -51,6 +53,8 @@ __Hello World!__
 * Set up remote pair programming
 * Complete [Contributor blurb](https://www.if-me.org/contributors) for ifme
 * JS Test for missing specs
+
+
 
 
 _3rd July 2017_
