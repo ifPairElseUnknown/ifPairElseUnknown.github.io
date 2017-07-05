@@ -10,7 +10,7 @@ __Hello World!__
 * Updated Ruby version to 2.3.4
 * Rebased from master 
 * Completed and pushed [Contributor blurb](https://www.if-me.org/contributors) for ifme 
-* Added our blogs into RGSoC Team App
+* Added our blogs into [RGSoC Team App](https://teams.railsgirlssummerofcode.org/?kind=&team_id=404)
 
 ## Things we learnt:
 * We have great support from the supervisor, coaches, and mentor
