@@ -1,3 +1,30 @@
+_10th July 2017_
+# Day 04:
+__Hello World!__
+
+## Things we did:
+* Set up remote pair programming in Atom
+* Participated in Monday Meditation at Zendesk
+* Attended a Zendesk Tech talk 
+* Wrote first draft for RGSoC blog
+* Set up TeamViewer
+* Signed up for AlterConf as recommended by Julia
+
+## Things we learnt:
+* How to use Atom for remote pair programming
+* What JSON Payload is
+* REST vs gRPC (Tech Talk)
+
+## To Do:
+* Meetup with the team
+* Review and prioritise tasks for the next three weeks
+* Double check remote pair programming is working properly
+* JS Test for missing specs
+* Continue working on the RGSoC blog
+
+
+
+
 _5th July 2017_
 # Day 03:
 __Hello World!__
