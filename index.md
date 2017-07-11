@@ -1,3 +1,25 @@
+_11th July 2017_
+# Day 05:
+__Hello World!__
+
+## Things we did:
+* Meetup with the team
+* Had tasks prioritised and level of difficulty noted by our mentor, Julia
+* Updated our test environment and fixed any issues on our local environment
+* Had a JS Test session with Ryan from Zendesk 
+* Commited first JS Test 
+* Continued working on the RGSoC blog
+
+## Things we learnt:
+* How to fix our local environments
+* How to do a JS Test
+
+## To Do:
+* Work on more JS Tests
+* Continue working on the RGSoC blog
+
+
+
 _10th July 2017_
 # Day 04:
 __Hello World!__
