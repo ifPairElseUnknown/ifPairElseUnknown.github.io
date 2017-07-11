@@ -7,7 +7,7 @@ __Hello World!__
 * Had tasks prioritised and level of difficulty noted by our mentor, Julia
 * Updated our test environment and fixed any issues on our local environments
 * Had a JS Test session with Ryan from Zendesk 
-* Commited first JS Test 
+* Committed first JS Test 
 * Continued working on the RGSoC blog
 
 ## Things we learnt:
