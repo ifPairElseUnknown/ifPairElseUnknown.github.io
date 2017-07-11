@@ -12,7 +12,7 @@ __Hello World!__
 
 ## Things we learnt:
 * How to fix our local environments
-* How to do a JS Test
+* How to do JS Tests
 * How to commit to github
 
 ## To Do:
