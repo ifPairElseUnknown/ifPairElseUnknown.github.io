@@ -3,9 +3,9 @@ _11th July 2017_
 __Hello World!__
 
 ## Things we did:
-* Meetup with the team
+* Met up with the team
 * Had tasks prioritised and level of difficulty noted by our mentor, Julia
-* Updated our test environment and fixed any issues on our local environment
+* Updated our test environment and fixed any issues on our local environments
 * Had a JS Test session with Ryan from Zendesk 
 * Commited first JS Test 
 * Continued working on the RGSoC blog
@@ -13,6 +13,7 @@ __Hello World!__
 ## Things we learnt:
 * How to fix our local environments
 * How to do a JS Test
+* How to commit to github
 
 ## To Do:
 * Work on more JS Tests
