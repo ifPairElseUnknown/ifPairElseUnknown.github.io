@@ -1,3 +1,30 @@
+_12th July 2017_
+# Day 06:
+__Hello World!__
+
+## Things we did:
+* Refactoring session with Adam
+* Reviewed and familiarised ourselves with the project's code
+* Reviewed Git commands
+* Session on JS Tests with Tim
+* Created plan for prioritised task with Tim
+* Linked Trello with Github
+* Continued working on the RGSoC blog
+
+## Things we learnt:
+* Refactoring
+* Git commands
+* How to link Trello to Github
+* Useful websites to learn JQuery and Git
+
+
+## To Do:
+* Work on issue (#455, #10)
+* Publish Blog post to RGSoC
+
+
+
+
 _11th July 2017_
 # Day 05:
 __Hello World!__
