@@ -163,7 +163,7 @@ We were warmly greeted by one of our coaches [Adel Smee](https://twitter.com/ade
 
 In the morning, we participated in a 30min Meditation session, which was an fantastic way to start off RGSoC. Meditation helps manage stress, aids in focus and aligns well with our project [ifme](www.if-me.org).
 
-We had lunch with Adel Smee and [Adam Rice](www.twitter.com/HashNotAdam) to kick off our first day and mark the occasion at [YUZU](https://www.zomato.com/melbourne/yuzu-at-church-lane-collins-street).
+We had lunch with Adel Smee and [Adam Rice](https://twitter.com/HashNotAdam) to kick off our first day and mark the occasion at [YUZU](https://www.zomato.com/melbourne/yuzu-at-church-lane-collins-street).
 After lunch [Simon Hilderbrandt](https://au.linkedin.com/in/simonhildebrandt) stopped by to assist us with setting up our [daily logs](https://ifpairelseunknown.github.io/).
 [Tim Moore](https://twitter.com/tmoore) was also available online to answer any questions we had.
 
