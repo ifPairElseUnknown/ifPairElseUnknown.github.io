@@ -6,7 +6,7 @@ __Hello World!__
 * Morning stand up to go over today's tasks
 * Converted RGSoC blog to Markdown
 * Published RGSoC Blog
-* Reasearched Secret URLs
+* Researched Secret URLs
 
 ## Things we learnt:
 * Learning how to generate a secret link
