@@ -1,3 +1,22 @@
+_17th July 2017_
+# Day 07:
+__Hello World!__
+
+## Things we did:
+* Morning stand up to go over today's tasks
+* Converted RGSoC blog to Markdown
+* Published RGSoC Blog
+* Reasearched Secret URLs
+
+## Things we learnt:
+* Learning how to generate a secret link
+* How to prioritise tasks while working remotely
+
+
+## To Do:
+* Work on issue (#455, #10)
+
+
 _12th July 2017_
 # Day 06:
 __Hello World!__
