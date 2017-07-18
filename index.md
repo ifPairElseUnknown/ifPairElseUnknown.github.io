@@ -6,6 +6,7 @@ __Hello World!__
 * Had global team meeting
 * Did JS Testing exercises on [Exercism](http://exercism.io/)
 * Worked on Issue #455
+* Made changes to blog as required
 
 ## Things we learnt:
 * UUID and different approaches available to create shareable link [SecureRandom](https://ruby-doc.org/stdlib-1.9.3/libdoc/securerandom/rdoc/SecureRandom.html)
