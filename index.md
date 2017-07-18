@@ -1,3 +1,20 @@
+_18th July 2017_
+# Day 08:
+__Hello World!__
+
+## Things we did:
+* Had global team meeting
+* Did one exercise on Exercism
+* Worked on Issue #455
+
+## Things we learnt:
+* UUID and different approaches available to create shareable link [SecureRandom](https://ruby-doc.org/stdlib-1.9.3/libdoc/securerandom/rdoc/SecureRandom.html)
+* Javascript on Exercism
+
+## To Do:
+* Use mockups to create a plan
+* Continue work on issue (#455, #10)
+
 _17th July 2017_
 # Day 07:
 __Hello World!__
