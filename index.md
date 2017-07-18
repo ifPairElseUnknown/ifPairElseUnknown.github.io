@@ -4,7 +4,7 @@ __Hello World!__
 
 ## Things we did:
 * Had global team meeting
-* Did one exercise on Exercism
+* Did JS Testing exercises on [Exercism](http://exercism.io/)
 * Worked on Issue #455
 
 ## Things we learnt:
@@ -22,7 +22,7 @@ __Hello World!__
 ## Things we did:
 * Morning stand up to go over today's tasks
 * Converted RGSoC blog to Markdown
-* Published RGSoC Blog
+* Published [RGSoC Blog](https://railsgirlssummerofcode.org/blog/)
 * Researched Secret URLs
 
 ## Things we learnt:
