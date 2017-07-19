@@ -1,3 +1,28 @@
+_19th July 2017_
+# Day 09:
+__Hello World!__
+
+## Things we did:
+* Had a session with Adam, to discuss new feature(Issue #455)
+* Created user journey map, for new feature (Issue #455)
+* Started story map, for new feature (Issue #455)
+* Did JS Testing exercises on [Exercism](http://exercism.io/)
+* Made changes to a Pull Request
+
+## Things we learnt:
+* What steps to take, to create a new feature
+* What tools to use, to create new feature
+* Learnt about Selenium testing
+* Story Map structure; Goals > Activities > Tasks > Stories
+* User Journey structure; User > Goals > User Journeys > Actions > Stories
+
+## To Do:
+* Finish story map for new feature (#455)
+* Share story map and discuss with team
+* Continue work on issue (#455, #10)
+* Practice JS Testing
+* Practice JQuery
+
 _18th July 2017_
 # Day 08:
 __Hello World!__
