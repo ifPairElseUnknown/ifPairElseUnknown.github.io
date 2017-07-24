@@ -1,3 +1,28 @@
+_24th July 2017_
+# Day 10:
+__Hello World!__
+
+## Things we did:
+* Tech talk on Atom pluggins and react
+* Started unit test to check that the translation files do not have missing keys (Issue #491)
+* Had a chat to Adel about testing
+
+## Things we learnt:
+* Learnt about browser testing
+* What tools you can use for testing
+* Learnt about Atom pluggin, how to build a pluggin
+* Learnt about unit and intergration testing
+* Testing on multiple devices (Mac, Windows, Linux, Mobile Phone)
+
+
+## To Do:
+* Finish unit test (#491)
+* Share story map and discuss with team
+* Delegate tasks for issue (#455)
+* Continue work on issue (#455, #10)
+* Practice JS Testing
+* Practice JQuery
+
 _19th July 2017_
 # Day 09:
 __Hello World!__
