@@ -6,12 +6,13 @@ __Hello World!__
 * Global sync with team, to talk about this weeks tasks
 * Sophie continued working on Unit test (Issue #491)
 * Sophie attended communication workshop at Zendesk
-
+* Worked on issue (#455) Secret Moment - Add button, Connect to Route and Create random url
 
 ## Things we learnt:
-* 5 tools you can use for effective communication (Feelings Check; using [Plutchik's wheel of emotion](http://www.6seconds.org/2017/04/27/plutchiks-model-of-emotions),Mirroring, Validation, Empathising, Appreciation)
+* 5 tools you can use for effective communication (Feelings Check; using [Plutchik's wheel of emotion](http://www.6seconds.org/2017/04/27/plutchiks-model-of-emotions), Mirroring, Validation, Empathising, Appreciation)
 * How to write a [rake task](https://edelpero.svbtle.com/everything-you-always-wanted-to-know-about-writing-good-rake-tasks-but-were-afraid-to-ask)
-* 
+* Learnt about rails helpers - button_to, redirect_to, SecureRandom
+* Learnt about Unity, ARKit and Google APIs
 
 ## To Do:
 * Sophie to finish unit test (#491)
@@ -20,6 +21,8 @@ __Hello World!__
 * Practice JQuery
 * Share story map and discuss with team
 * Delegate tasks for issue (#455)
+* Work on issue (#113)
+* Research on how integrate google calendar with rails
 
 _24th July 2017_
 # Day 10:
@@ -36,7 +39,6 @@ __Hello World!__
 * Learnt about Atom pluggin, how to build a pluggin
 * Learnt about unit and intergration testing
 * Testing on multiple devices (Mac, Windows, Linux, Mobile Phone)
-
 
 ## To Do:
 * Finish unit test (#491)
