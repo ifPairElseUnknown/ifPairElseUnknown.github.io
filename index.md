@@ -10,15 +10,16 @@ __Hello World!__
 
 ## Things we learnt:
 * 5 tools you can use for effective communication (Feelings Check; using [Plutchik's wheel of emotion](http://www.6seconds.org/2017/04/27/plutchiks-model-of-emotions),Mirroring, Validation, Empathising, Appreciation)
-
+* How to write a [rake task](https://edelpero.svbtle.com/everything-you-always-wanted-to-know-about-writing-good-rake-tasks-but-were-afraid-to-ask)
+* 
 
 ## To Do:
-* Finish unit test (#491)
+* Sophie to finish unit test (#491)
+* Practice JS Testing on exercism
+* Work on JS Tests
+* Practice JQuery
 * Share story map and discuss with team
 * Delegate tasks for issue (#455)
-* Continue work on issue (#455, #10)
-* Practice JS Testing
-* Practice JQuery
 
 _24th July 2017_
 # Day 10:
