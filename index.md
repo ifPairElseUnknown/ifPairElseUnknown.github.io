@@ -6,6 +6,7 @@ __Hello World!__
 * Global sync with team, to talk about this weeks tasks
 * Sophie continued working on Unit test (Issue #491)
 * Sophie attended communication workshop at Zendesk
+* Sophie had remote pairing session with Tim, to work on Unit test (issue #491)
 * Worked on issue (#455) Secret Moment - Add button, Connect to Route and Create random url
 
 ## Things we learnt:
