@@ -9,18 +9,24 @@ __Hello World!__
 * Sophie had remote pairing session with Tim, to work on Unit test (issue #491)
 * Sophie started looking into 'stubbing' for tests
 * Sophie used Rubocop to refactor code
+* Continued to work on Issue 113
+* Coded google calendar button into meetings page (issue #113)
+* Added route to the google calendar button (issue #113)
 
 
 ## Things we learnt:
 * Difference between [stubbing and mocking](https://www.ibm.com/developerworks/library/wa-mockrails/)
 * How to write simpler/readable tests
 * Built in [Matchers](https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers)
+* [Methods] (http://baugues.com/google-calendar-api-oauth2-and-ruby-on-rails) to use for Google Calendar 
+* About [Google API](https://developers.google.com/google-apps/calendar/quickstart/ruby)
 
 
 ## To Do:
 * Sophie to finish unit test (#491)
 * Practice JS Testing on exercism
 * Work on JS Tests
+* Finish (issue #113)
 
 
 _25th July 2017_
