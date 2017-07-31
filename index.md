@@ -1,3 +1,27 @@
+_31st July 2017_
+# Day 13:
+__Hello World!__
+
+## Things we did:
+* Sophie continued working on Unit test (Issue #491)
+* Sophie did a JQuery tutorial 
+* Sophie revised basic JavaScript concepts 
+* Sophie used Rubocop to refactor code
+
+
+
+## Things we learnt:
+* How to write simpler/readable tests
+* Basic JavaScript and JQuery concepts
+
+
+## To Do:
+* Sophie to finish unit test (#491)
+* Practice JS Testing on exercism
+* Work on JS Tests
+* Finish (issue #113)
+
+
 _26th July 2017_
 # Day 12:
 __Hello World!__
