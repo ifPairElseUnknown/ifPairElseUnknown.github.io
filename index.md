@@ -7,12 +7,15 @@ __Hello World!__
 * Sophie did a JQuery tutorial 
 * Sophie revised basic JavaScript concepts 
 * Sophie used Rubocop to refactor code
-
+* Worked on finalising the google calendar for meetings (Issue #113)
+* Did a tutorial on CSS to make the google calendar button look better
 
 
 ## Things we learnt:
 * How to write simpler/readable tests
 * Basic JavaScript and JQuery concepts
+* Basic CSS concepts
+* How to create actions in controller
 
 
 ## To Do:
@@ -20,6 +23,7 @@ __Hello World!__
 * Practice JS Testing on exercism
 * Work on JS Tests
 * Finish (issue #113)
+* Finish google calendar for meetings (#113)
 
 
 _26th July 2017_
