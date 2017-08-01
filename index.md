@@ -1,3 +1,23 @@
+_1st August 2017_
+# Day 13:
+__Hello World!__
+
+## Things we did:
+* Sophie continued working on Unit test (Issue #491)
+* Sophie did a JQuery tutorial 
+* Sophie revised basic JavaScript concepts 
+* Global sync with team
+
+## Things we learnt:
+* Different ways of testing
+* Basic JavaScript and JQuery concepts
+
+
+## To Do:
+* Sophie to finish unit test (#491)
+* Work on JS Tests
+* Review and comment on eachother's Pull Requests
+
 _31st July 2017_
 # Day 13:
 __Hello World!__
