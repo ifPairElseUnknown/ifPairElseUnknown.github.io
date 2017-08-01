@@ -7,14 +7,21 @@ __Hello World!__
 * Sophie did a JQuery tutorial 
 * Sophie revised basic JavaScript concepts 
 * Global sync with team
+* Sophie had a pairing session with Tim, to rebase a branch
+* Sophie created an alias for git commands
+
+
 
 ## Things we learnt:
 * Different ways of testing
 * Basic JavaScript and JQuery concepts
+* Revert and Rebasing a branch 
+* [OhShitGit!](http://ohshitgit.com/)
+* [Git Aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
 
 
 ## To Do:
-* Sophie to finish unit test (#491)
+* Sophie to finish unit test(#491)
 * Work on JS Tests
 * Review and comment on eachother's Pull Requests
 
