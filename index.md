@@ -9,6 +9,7 @@ __Hello World!__
 * Global sync with team
 * Sophie had a pairing session with Tim, to rebase a branch
 * Sophie created an alias for git commands
+* Worked on Issue #113
 
 
 
