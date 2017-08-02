@@ -1,3 +1,27 @@
+_2nd August 2017_
+# Day 14:
+__Hello World!__
+
+## Things we did:
+* Sophie refactored Unit test (Issue #491
+* Sophie completed Unit test (Issue #491)
+* Sophie had mentoring session with Adam (Worked on issue #491 and learnt about Dir.glob)
+* Sophie spoke to Adel about Truthy/Falsey in JavaScript
+* Sophie spoke to Tim about how to use 'Focus' in Rspec
+* Sophie used Focus for Rspec
+
+## Things we learnt:
+* JavaScript [Equality Table](https://dorey.github.io/JavaScript-Equality-Table/)
+* Handy keyboard shortcuts
+* How to use Dir.glob
+* How to [Focus a Spec](https://medium.com/table-xi/focus-your-rspec-workflow-4cd5798d2a3e) [Official Doc](https://relishapp.com/rspec/rspec-core/v/3-6/docs/filtering/filter-run-when-matching)
+* [Guard](http://guardgem.org/)
+
+## To Do:
+* Work on Secret Moments Feature (#455)
+* Work on JS Tests (#363)
+* Review and comment on eachother's Pull Requests
+
 _1st August 2017_
 # Day 13:
 __Hello World!__
@@ -10,8 +34,6 @@ __Hello World!__
 * Sophie had a pairing session with Tim, to rebase a branch
 * Sophie created an alias for git commands
 * Worked on Issue #113
-
-
 
 ## Things we learnt:
 * Different ways of testing
