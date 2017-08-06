@@ -9,6 +9,8 @@ __Hello World!__
 * Sophie spoke to Adel about Truthy/Falsey in JavaScript
 * Sophie spoke to Tim about how to use 'Focus' in Rspec
 * Sophie used Focus for Rspec
+* Applied CSS to buttons in meetings 
+* Completed Meeting calendar (Issue #113)
 
 ## Things we learnt:
 * JavaScript [Equality Table](https://dorey.github.io/JavaScript-Equality-Table/)
@@ -16,11 +18,15 @@ __Hello World!__
 * How to use Dir.glob
 * How to [Focus a Spec](https://medium.com/table-xi/focus-your-rspec-workflow-4cd5798d2a3e) [Official Doc](https://relishapp.com/rspec/rspec-core/v/3-6/docs/filtering/filter-run-when-matching)
 * [Guard](http://guardgem.org/)
+* Learnt about CSS 
+* Learn basic Python
+* Learn how to create a chatbot using Python
 
 ## To Do:
 * Work on Secret Moments Feature (#455)
 * Work on JS Tests (#363)
 * Review and comment on eachother's Pull Requests
+
 
 _1st August 2017_
 # Day 13:
