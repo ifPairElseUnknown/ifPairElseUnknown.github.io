@@ -6,10 +6,11 @@ __Hello World!__
 * Updated our local branches
 * Addressed comments on Issue #363 JS test for CharacterCountSpec.js
 * Attended tech talk lunch session at Zendesk
-* Review and comment on each other's Pull Requests
+* Reviewed and commented on each other's Pull Requests
 
 ## Things we learnt:
 * How to correct our commits in git 
+* Learnt about salesforce
 
 ## To Do:
 * Team meeting 
