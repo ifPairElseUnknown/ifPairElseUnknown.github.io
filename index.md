@@ -1,3 +1,22 @@
+_7th August 2017_
+# Day 15:
+__Hello World!__
+
+## Things we did:
+* Updated our local branches
+* Addressed comments on Issue #363 JS test for CharacterCountSpec.js
+* Attended tech talk lunch session at Zendesk
+* Review and comment on each other's Pull Requests
+
+## Things we learnt:
+* How to correct our commits in git 
+
+## To Do:
+* Team meeting 
+* Pair Programming on issue (#455) Secret Moment
+* Revise [ruby](http://www.codequizzes.com/ruby)
+
+
 _2nd August 2017_
 # Day 14:
 __Hello World!__
@@ -19,13 +38,13 @@ __Hello World!__
 * How to [Focus a Spec](https://medium.com/table-xi/focus-your-rspec-workflow-4cd5798d2a3e) [Official Doc](https://relishapp.com/rspec/rspec-core/v/3-6/docs/filtering/filter-run-when-matching)
 * [Guard](http://guardgem.org/)
 * Learnt about CSS 
-* Learn basic Python
-* Learn how to create a chatbot using Python
+* Learnt basic Python
+* Learnt how to create a chatbot using Python
 
 ## To Do:
 * Work on Secret Moments Feature (#455)
 * Work on JS Tests (#363)
-* Review and comment on eachother's Pull Requests
+* Review and comment on each other's Pull Requests
 
 
 _1st August 2017_
