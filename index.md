@@ -10,7 +10,7 @@ __Hello World!__
 
 ## Things we learnt:
 * How to correct our commits in git 
-* Learnt about salesforce
+* Learnt about Salesforce
 
 ## To Do:
 * Team meeting 
