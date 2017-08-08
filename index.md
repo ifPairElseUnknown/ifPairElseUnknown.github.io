@@ -7,16 +7,16 @@ __Hello World!__
 * Created test for issue [#455]
 * Reviewed and commented on each other's Pull Requests
 * Did Git tutorial on [CodeSchool](https://www.codeschool.com/learn/git)
-* Revised Ruby tutorial on [SoloLearn](https://www.sololearn.com)
+* Revised Ruby on [SoloLearn](https://www.sololearn.com)
 
 ## Things we learnt:
-* Learnt about GUIs [GitKraken](https://www.gitkraken.com/)[Gitup](http://gitup.co/)
+* Learnt about GUIs [GitKraken](https://www.gitkraken.com/), [Gitup](http://gitup.co/)
 * Learnt about version control in Git
-* Learnt how to checkout previous branchs on Source Tree
+* Learnt how to checkout previous branches on Source Tree
 
 
 ## To Do:
-* Continue working on issuie [#455]
+* Continue working on issue [#455]
 * Pair Programming on issue [#455] Secret Moment
 * Revise [ruby](http://www.codequizzes.com/ruby)
 
