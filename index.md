@@ -1,3 +1,26 @@
+_8th August 2017_
+# Day 17:
+__Hello World!__
+
+## Things we did:
+* Updated our local branches
+* Created test for issue [#455]
+* Reviewed and commented on each other's Pull Requests
+* Did Git tutorial on [CodeSchool](https://www.codeschool.com/learn/git)
+* Revised Ruby tutorial on [SoloLearn](https://www.sololearn.com)
+
+## Things we learnt:
+* Learnt about GUIs [GitKraken](https://www.gitkraken.com/)[Gitup](http://gitup.co/)
+* Learnt about version control in Git
+* Learnt how to checkout previous branchs on Source Tree
+
+
+## To Do:
+* Continue working on issuie [#455]
+* Pair Programming on issue [#455] Secret Moment
+* Revise [ruby](http://www.codequizzes.com/ruby)
+
+
 _7th August 2017_
 # Day 16:
 __Hello World!__
