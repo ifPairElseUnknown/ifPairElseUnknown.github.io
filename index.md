@@ -1,3 +1,23 @@
+_9th August 2017_
+# Day 18:
+__Hello World!__
+
+## Things we did:
+* Worked on issue [#455]
+* Added and wrote test for GET secret show for issue [#455]
+* Revised Ruby on [SoloLearn](https://www.sololearn.com)
+
+## Things we learnt:
+* Learnt more about Git in terms of rebase and merge
+* Learnt the relevance of adding index in db
+* Learnt about [Ruby Active Job Basics]http://edgeguides.rubyonrails.org/active_job_basics.html)
+* Learnt about [git bash promot](https://github.com/magicmonty/bash-git-prompt)
+
+## To Do:
+* Pair Programming on issue [#455] Secret Moment
+* Revise [ruby](http://www.codequizzes.com/ruby)
+
+
 _8th August 2017_
 # Day 17:
 __Hello World!__
