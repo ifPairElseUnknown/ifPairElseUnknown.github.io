@@ -11,7 +11,7 @@ __Hello World!__
 * Learnt more about Git in terms of rebase and merge
 * Learnt the relevance of adding index in db
 * Learnt about [Ruby Active Job Basics]http://edgeguides.rubyonrails.org/active_job_basics.html)
-* Learnt about [git bash promot](https://github.com/magicmonty/bash-git-prompt)
+* Learnt about [git bash prompt](https://github.com/magicmonty/bash-git-prompt)
 
 ## To Do:
 * Pair Programming on issue [#455] Secret Moment
