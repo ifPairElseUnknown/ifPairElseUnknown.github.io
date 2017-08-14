@@ -6,11 +6,13 @@ __Hello World!__
 * Worked on issue [#455]
 * Looked at slide deck on Pair Programming 
 * Set up a proper pair programming environment 
+* Researched guest access
 * Revised Ruby on [SoloLearn](https://www.sololearn.com)
 
 ## Things we learnt:
 * How to work effectively as a pair
 * Learnt about Devise
+* Learnt about referrer method 
 
 
 ## To Do:
