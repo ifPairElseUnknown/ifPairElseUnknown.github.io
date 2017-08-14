@@ -1,3 +1,22 @@
+_14th August 2017_
+# Day 19:
+__Hello World!__
+
+## Things we did:
+* Worked on issue [#455]
+* Looked at slide deck on Pair Programming 
+* Set up a proper pair programming environment 
+* Revised Ruby on [SoloLearn](https://www.sololearn.com)
+
+## Things we learnt:
+* How to work effectively as a pair
+* Learnt about Devise
+
+
+## To Do:
+* Pair Programming on issue [#455] Secret Moment
+
+
 _9th August 2017_
 # Day 18:
 __Hello World!__
