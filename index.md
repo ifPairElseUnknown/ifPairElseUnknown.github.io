@@ -1,3 +1,25 @@
+_15th August 2017_
+# Day 20:
+__Hello World!__
+
+## Things we did:
+* Pair programmed on issue [#455] 
+* Committed Render view on current user and guest
+* Global sync with team, to talk about this week's tasks
+* Submitted preferred conference to attend
+* Arranged sessions with our coaches
+* Created three different events on [Nexpaq's](https://nexpaq.com/) modular hardware device 
+
+## Things we learnt:
+* Learnt about rendering view for current user and guest
+* Learnt about .try method
+* Learnt about Modular Devices with [Nexpaq](https://nexpaq.com/)
+
+## To Do:
+* Pair Programming on issue [#455] Secret Moment
+* Submit talk for AlterConference
+
+
 _14th August 2017_
 # Day 19:
 __Hello World!__
@@ -13,7 +35,6 @@ __Hello World!__
 * How to work effectively as a pair
 * Learnt about Devise
 * Learnt about referrer method 
-
 
 ## To Do:
 * Pair Programming on issue [#455] Secret Moment
