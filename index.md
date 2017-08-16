@@ -1,3 +1,23 @@
+_16th August 2017_
+# Day 21:
+__Hello World!__
+
+## Things we did:
+* Pair programmed on issue [#455] 
+* Wrote tests for issue [#455]
+
+## Things we learnt:
+* Learnt about security
+* [redirect_to matcher](https://relishapp.com/rspec/rspec-rails/docs/matchers/redirect-to-matcher)
+* [controller specs](https://relishapp.com/rspec/rspec-rails/docs/controller-specs)
+
+
+## To Do:
+* Pair Programming on issue [#455] Secret Moment
+* Display error page
+* Add expire and reset functions to Secret Moment
+* Check for render partial conflicts
+
 _15th August 2017_
 # Day 20:
 __Hello World!__
