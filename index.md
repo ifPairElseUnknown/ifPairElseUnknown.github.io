@@ -1,3 +1,32 @@
+_22nd August 2017_
+# Day 23:
+__Hello World!__
+
+## Things we did:
+* Pair programmed on issue [#455] 
+* Global Sync with Team
+* Translate button to Spanish and Portuguese
+* Started creating expiry for 'Secret Share' link.
+* Session with Simon
+
+## Things we learnt:
+* [I18n](http://guides.rubyonrails.org/i18n.html)
+* [Redirecting](http://api.rubyonrails.org/classes/ActionController/Redirecting.html)
+* [Flash Notice](http://api.rubyonrails.org/classes/ActionDispatch/Flash.html)
+* [Time](https://ruby-doc.org/core-2.2.0/Time.html)
+* Learnt about link expiration.
+* Learnt about Feature Flag
+
+## To Do:
+* Pair Programming on issue [#455] Secret Moment
+* Display error page
+* Add expire and reset functions to Secret Moment
+* Session with Adam
+* Rebase master with new Rails 5 upgrade
+* Session with Tim
+* Learn more about Feature Flag
+
+
 _16th August 2017_
 # Day 21:
 __Hello World!__
