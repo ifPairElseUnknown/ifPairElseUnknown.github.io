@@ -1,3 +1,23 @@
+_23rd August 2017_
+# Day 24:
+__Hello World!__
+
+## Things we did:
+* Pair programmed on issue [#455] 
+* Created test on expiry error display for Secret Share
+* Added expire and reset functions to Secret Moment
+* Rebase master with new Rails 5 upgrade
+* Session with Adam
+* Session with Tim
+
+## Things we learnt:
+* Learnt about key features of Rails 5
+* Learn more about Feature Flag
+
+## To Do:
+* Pair Programming on issue [#455] Secret Moment
+
+
 _22nd August 2017_
 # Day 23:
 __Hello World!__
