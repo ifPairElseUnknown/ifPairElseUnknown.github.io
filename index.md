@@ -1,3 +1,28 @@
+_28th August 2017_
+# Day 25:
+__Hello World!__
+
+## Things we did:
+* Pair programmed on issue [#455] 
+* Added expire and reset functions to Secret Moment
+* Added athorisation tests
+* Session with Tim
+* Session with Simon
+
+## Things we learnt:
+* Learnt about Design Systems
+* Learnt about Rails Console
+* Learnt about [button_to](http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html#method-i-button_to)
+* Learnt about [Rails Routing](http://guides.rubyonrails.org/routing.html)
+* Learnt about [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult)
+
+
+## To Do:
+* Pair Programming on issue [#455] Secret Moment
+* Create tests for issue [#455] Secret Moment
+* Create Date/Time Expiry 
+
+
 _23rd August 2017_
 # Day 24:
 __Hello World!__
