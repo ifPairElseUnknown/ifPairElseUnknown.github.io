@@ -9,6 +9,7 @@ __Hello World!__
 
 ## Things we learnt:
 * Julia at if me creates awesome stickers!
+* Learnt about [Scala](https://github.com/sharongorman/scala-adventures)
 * Learnt about [Unity](https://unity3d.com/)
 
 
