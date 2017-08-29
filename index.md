@@ -8,15 +8,15 @@ __Hello World!__
 * Worked on Blog post 2 for RGSoC
 
 ## Things we learnt:
-* Julia at if me creates awesome stickers!
+* Julia creates awesome stickers! Thanks [Julia!](@fleurchild) 
 * Learnt about [Scala](https://github.com/sharongorman/scala-adventures)
 * Learnt about [Unity](https://unity3d.com/)
-
 
 ## To Do:
 * Pair Programming on issue [#455] Secret Moment
 * Create tests for issue [#455] Secret Moment
 * Create Date/Time Expiry 
+* Global sync with Team
 
 
 _28th August 2017_
