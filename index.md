@@ -1,3 +1,23 @@
+_29th August 2017_
+# Day 26:
+__Hello World!__
+
+## Things we did:
+* Moved to a different area to work at Zendesk
+* Met some cool people in Data Science and Data Engineering at Zendesk and invited to their bookclubs
+* Worked on Blog post 2 for RGSoC
+
+## Things we learnt:
+* Julia at if me creates awesome stickers!
+* Learnt about [Unity](https://unity3d.com/)
+
+
+## To Do:
+* Pair Programming on issue [#455] Secret Moment
+* Create tests for issue [#455] Secret Moment
+* Create Date/Time Expiry 
+
+
 _28th August 2017_
 # Day 25:
 __Hello World!__
