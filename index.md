@@ -1,3 +1,25 @@
+_30th August 2017_
+# Day 27:
+__Hello World!__
+
+## Things we did:
+* Pair Programming on issue [#455] Secret Moment
+* Refactored Date/Time Expiry [#455] Secret Moment
+* Global sync with Team
+* Session with Adam
+* Attended Zendesk bookclub on [Bayesian](http://www.users.csbsju.edu/~mgass/robert.pdf) 
+
+## Things we learnt:
+* Learnt about Bayesian
+* Learnt about [tf-idf](http://www.tfidf.com/)
+* Learnt about [jupyter](http://jupyter.org/)
+
+## To Do:
+* Continue Pair Programming on issue [#455] Secret Moment
+* Create tests for issue [#455] Secret Moment
+* Continue working on Blog post 2
+
+
 _29th August 2017_
 # Day 26:
 __Hello World!__
