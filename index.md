@@ -48,7 +48,7 @@ __Hello World!__
 ## Things we did:
 * Pair programmed on issue [#455] 
 * Added expire and reset functions to Secret Moment
-* Added athorisation tests
+* Added authorisation tests
 * Session with Tim
 * Session with Simon
 
