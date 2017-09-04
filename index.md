@@ -1,3 +1,22 @@
+_2nd September 2017_
+# Day 28:
+__Hello World!__
+
+## Things we did:
+* Refactored tests on issue [#455] Secret Moment
+* Worked on Blog post 2 for RGSoC
+* Attended Zendesk Tech Talk on Security
+
+## Things we learnt:
+* How to create an infographic using [canva](https://www.canva.com/)
+* Learnt about [Security Conferences](https://www.defcon.org/)
+* Learnt that you can make cool [keyboards](https://www.massdrop.com/buy/preonic-mechanical-keyboard)
+* Learnt about [DuckDuckGo search engine](https://duckduckgo.com/)
+
+## To Do:
+* Continue Pair Programming on issue [#455] Secret Moment
+* Continue working on Blog post 2
+
 _30th August 2017_
 # Day 27:
 __Hello World!__
