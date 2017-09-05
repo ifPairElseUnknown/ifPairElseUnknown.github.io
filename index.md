@@ -1,3 +1,26 @@
+_3rd September 2017_
+# Day 29:
+__Hello World!__
+
+## Things we did:
+* Added feature flag to issue [#455] Secret Moment
+* Read recommended articles on feature flag
+* Completed Blog post 2 for RGSoC
+* Updated our fork of RGSoC 
+* Session with Tim
+
+## Things we learnt:
+* Learnt [how to continuously ship new features to production with the confidence of not impacting your customers](https://blog.travis-ci.com/2014-03-04-use-feature-flags-to-ship-changes-with-confidence/)
+* Learnt how to have [better development with Feature Flags](https://reinteractive.com/posts/220-better-development-with-feature-flags)
+* Learnt about [Feature flags on Rails](https://reinteractive.com/posts/221-feature-flags-on-rails)
+* Learnt about [A Simple feature toggle for a Rails app](http://blog.arkency.com/2015/11/simple-feature-toggle-for-rails-app/)
+* Learnt about [Custom Configuration](http://guides.rubyonrails.org/configuring.html#custom-configuration)
+
+## To Do:
+* Continue Pair Programming on issue [#455] Secret Moment
+* Add if/unless statements for feature flag in view
+* Turn on feature flag in Dev environment
+
 _2nd September 2017_
 # Day 28:
 __Hello World!__
