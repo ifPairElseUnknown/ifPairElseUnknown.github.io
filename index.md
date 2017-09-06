@@ -1,3 +1,27 @@
+_4th September 2017_
+# Day 30:
+__Hello World!__
+
+## Things we did:
+* Added if/unless statements for feature flag in view [#455] Secret Moment
+* Turned on feature flag in Dev environment [#455] Secret Moment
+* Added tests for feature flag [#455] Secret Moment
+* Prepared [#455] Secret Moment for pull request and formal review
+* Pushed Blog post 2 to RGSoC
+* Attended Zendesk bookclub on [Bayesian](http://www.users.csbsju.edu/~mgass/robert.pdf) 
+* Session with Tim
+* Session with Adam
+
+## Things we learnt:
+* Learnt about Kanban
+* Learnt about importance of security 
+* Learnt the process around pull requests
+
+## To Do:
+* Continue Pair Programming on issue [#455] Secret Moment
+
+
+
 _3rd September 2017_
 # Day 29:
 __Hello World!__
