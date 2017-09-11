@@ -1,3 +1,23 @@
+_11th September 2017_
+# Day 31:
+__Hello World!__
+
+## Things we did:
+* Ran [#455] Secret Moment code through Rspec and Rubocop
+* Refactored spec and controller codes
+* Updated our local environment to support React
+* Session with Tim
+* Prepare for end of program celebrations
+
+## Things we learnt:
+* Learnt yarn
+* Learnt to refactor using methods to shorten length of code
+* Learnt to design using canva
+
+## To Do:
+* Continue Pair Programming on issue [#455] Secret Moment
+
+
 _4th September 2017_
 # Day 30:
 __Hello World!__
