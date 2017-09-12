@@ -6,6 +6,7 @@ __Hello World!__
 * Refactored spec for issue [#455] Secret Moment
 * Continued to update our local environment to support React
 * Session with Tim on Security
+* Session with Adam on Merging with master 
 
 ## Things we learnt:
 * Learnt about [Rails strong parameters](http://edgeguides.rubyonrails.org/action_controller_overview.html)
