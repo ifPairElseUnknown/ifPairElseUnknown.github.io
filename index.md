@@ -1,3 +1,19 @@
+_12th September 2017_
+# Day 32:
+__Hello World!__
+
+## Things we did:
+* Refactored spec for issue [#455] Secret Moment
+* Continued to update our local environment to support React
+* Session with Tim on Security
+
+## Things we learnt:
+* Learnt about [Rails strong parameters](http://edgeguides.rubyonrails.org/action_controller_overview.html)
+* Reviewed [Git Merge and Rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
+## To Do:
+* Continue Pair Programming on issue [#455] Secret Moment
+
 _11th September 2017_
 # Day 31:
 __Hello World!__
