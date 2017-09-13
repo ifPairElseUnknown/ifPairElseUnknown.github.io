@@ -11,6 +11,7 @@ __Hello World!__
 ## Things we learnt:
 * Learnt about [React on Rails](https://github.com/shakacode/react_on_rails)
 * Learnt about [Stages of a Compiler](https://the-super-tiny-compiler.glitch.me/intro)
+* Learnt about [Anaconda](https://www.anaconda.com/)
 
 ## To Do:
 * Continue Pair Programming on issue [#455] Secret Moment
