@@ -1,3 +1,21 @@
+_13th September 2017_
+# Day 33:
+__Hello World!__
+
+## Things we did:
+* Fixed foreman bootstrap script so that dependencies are installed before the build to enable server to run
+* Committed change and made a pull request [#626](https://github.com/julianguyen/ifme/pull/626)
+* Lunch with Adel
+* Discussed preparations for final celebration
+
+## Things we learnt:
+* Learnt about [React on Rails](https://github.com/shakacode/react_on_rails)
+* Learnt about [Stages of a Compiler](https://the-super-tiny-compiler.glitch.me/intro)
+
+## To Do:
+* Continue Pair Programming on issue [#455] Secret Moment
+
+
 _12th September 2017_
 # Day 32:
 __Hello World!__
