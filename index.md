@@ -1,3 +1,23 @@
+_18th September 2017_
+# Day 34:
+__Hello World!__
+
+## Things we did:
+* Attended [Elixir Girls workshop](http://elixirgirls.com/#page-top) on the weekend
+* Attended Zendesk Tech Talk
+* Prepared presentation 
+* Created and sent out invitations for final celebration
+
+## Things we learnt:
+* Learnt about [Elixir](http://elixirgirls.com/guides/)
+* Learnt about [Metaprogramming](https://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds)
+* Learnt about [webpack](https://webpack.js.org/)
+
+## To Do:
+* Continue Pair Programming on issue [#455] Secret Moment
+* Finalise presentation
+
+
 _13th September 2017_
 # Day 33:
 __Hello World!__
