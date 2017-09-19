@@ -1,3 +1,24 @@
+_19th September 2017_
+# Day 35:
+__Hello World!__
+
+## Things we did:
+* Attended Security training session
+* Global team meeting
+* Attended Zendesk's Women in engineering lunch 
+* Session with Simon
+* Fixed a Pull Request
+* Adjusted CSS for Secret Share button
+
+## Things we learnt:
+* Learnt about Security
+* Learnt about CSS and styling
+
+## To Do:
+* Continue Pair Programming on issue [#455] Secret Moment
+* Finalise presentation
+
+
 _18th September 2017_
 # Day 34:
 __Hello World!__
