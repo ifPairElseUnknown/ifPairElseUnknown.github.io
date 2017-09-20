@@ -352,7 +352,7 @@ __Hello World!__
 ## Things we learnt:
 * Learnt more about Git in terms of rebase and merge
 * Learnt the relevance of adding index in db
-* Learnt about [Ruby Active Job Basics]http://edgeguides.rubyonrails.org/active_job_basics.html)
+* Learnt about [Ruby Active Job Basics](http://edgeguides.rubyonrails.org/active_job_basics.html)
 * Learnt about [git bash prompt](https://github.com/magicmonty/bash-git-prompt)
 
 ## To Do:
@@ -507,7 +507,7 @@ __Hello World!__
 * Difference between [stubbing and mocking](https://www.ibm.com/developerworks/library/wa-mockrails/)
 * How to write simpler/readable tests
 * Built in [Matchers](https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers)
-* [Methods] (http://baugues.com/google-calendar-api-oauth2-and-ruby-on-rails) to use for Google Calendar 
+* [Methods](http://baugues.com/google-calendar-api-oauth2-and-ruby-on-rails) to use for Google Calendar 
 * About [Google API](https://developers.google.com/google-apps/calendar/quickstart/ruby)
 
 
@@ -530,7 +530,7 @@ __Hello World!__
 * Worked on issue (#455) Secret Moment - Add button, Connect to Route and Create random url
 
 ## Things we learnt:
-* 5 tools you can use for effective communication (Feelings Check; using [Plutchik's wheel of emotion](http://www.6seconds.org/2017/04/27/plutchiks-model-of-emotions), Mirroring, Validation, Empathising, Appreciation)
+* 5 tools you can use for effective communication (Feelings Check; using [Plutchik's wheel of emotion(http://www.6seconds.org/2017/04/27/plutchiks-model-of-emotions), Mirroring, Validation, Empathising, Appreciation)
 * How to write a [rake task](https://edelpero.svbtle.com/everything-you-always-wanted-to-know-about-writing-good-rake-tasks-but-were-afraid-to-ask)
 * Learnt about rails helpers - button_to, redirect_to, SecureRandom
 * Learnt about Unity, ARKit and Google APIs
