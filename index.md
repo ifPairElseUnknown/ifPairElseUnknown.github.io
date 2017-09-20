@@ -1,3 +1,26 @@
+_20th September 2017_
+# Day 36:
+__Hello World!__
+
+## Things we did:
+* Went though how to add HTML time date input and require 
+* Discussed [delegate method](https://apidock.com/rails/Module/delegate)
+* Added test on validating the Secret Share 
+* Refactored Secret Share Tests 
+* Session with Adam
+* Session with Tim
+
+## Things we learnt:
+* Learnt about Migrating between Macs
+* Learnt [HTML strftime](https://apidock.com/ruby/DateTime/strftime)
+* Learnt about [Rubocop styling](https://rubocop.readthedocs.io/en/latest/cops_style/)
+* Learnt about a useful [Atom plugin for block converting](https://github.com/dsandstrom/atom-ruby-block-converter)
+
+## To Do:
+* Continue Pair Programming on issue [#455] Secret Moment
+* Finalise presentation
+
+
 _19th September 2017_
 # Day 35:
 __Hello World!__
