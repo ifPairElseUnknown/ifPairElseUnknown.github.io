@@ -1,3 +1,28 @@
+_25th September 2017_
+# Day 37:
+__Hello World!__
+
+## Things we did:
+* Attended AlterConference on the weekend and listened to a range of [talks](https://alterconf.com/talks)
+* Added styling to the Secret Share Button on issue [#455] Secret Moment
+* Added Date Expiry on issue [#455] Secret Moment
+* Session with Tim
+* Session with Simon
+* Session with Erica on Product Management
+* Worked on final presentation
+* Celebrated Sophie's birthday 
+
+## Things we learnt:
+* Learnt about Product Management
+* Learnt about CSS
+* Learnt about [modal boxes](https://www.w3schools.com/howto/howto_css_modals.asp)
+* Learnt about the [importance of feedback](https://speakerdeck.com/aemeredith/feedback-matters-1)
+
+## To Do:
+* Continue Pair Programming on issue [#455] Secret Moment
+* Finalise presentation
+
+
 _20th September 2017_
 # Day 36:
 __Hello World!__
