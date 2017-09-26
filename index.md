@@ -1,3 +1,25 @@
+_26th September 2017_
+# Day 38:
+__Hello World!__
+
+## Things we did:
+* Fixed error on issue [#455] Secret Moment
+* Added translation on issue [#455] Secret Moment
+* Worked styling the button on issue [#455] Secret Moment
+* Session with Tim
+* Session with Adam
+* Worked on final presentation
+* Had our last Global team meeting online
+
+## Things we learnt:
+* Learnt about [Foreman](http://railscasts.com/episodes/281-foreman)
+* Learnt about [pry-byebug](http://www.rubydoc.info/gems/pry-byebug/2.0.0)
+
+## To Do:
+* Continue Pair Programming on issue [#455] Secret Moment
+* Finalise presentation
+
+
 _25th September 2017_
 # Day 37:
 __Hello World!__
