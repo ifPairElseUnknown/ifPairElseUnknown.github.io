@@ -1,3 +1,39 @@
+_27th September 2017_
+# Day 39:
+__Hello World!__
+
+For ifPairElseUnknown, today marks the last day of [Rails Girls Summer of Code](https://railsgirlssummerofcode.org) 2017. 
+
+# RGSoC has come to an end!
+
+Today we hosted a morning tea to present our Rails Girls Summer of Code experience and thank all those who helped us along the way. 
+
+It has been a great pleasure working with our amazing team.
+They have all provided us with a wealth of knowledge, which we can take away and implement as we continue to learn. 
+
+We had the amazing support of four coaches, Adel, Tim, Adam and Simon.
+
+* _Adel_ has been an amazing support, while we have been here at Zendesk. She has made sure we had everything we need to work effectively on our project. She has also made time in her busy schedule to run sessions on Git and Javascript and cooked delicious treats to share with everyone.
+
+* _Tim_ has provided support remotely. We have regularly sync with him over Zoom. We generally focused our sessions around TDD. Tim also opened our eyes to security. We find that Tim explains things in an easy to understand way and we really like his approach to TDD. He is also extremely patient and understanding as a coach.
+
+* _Adam_ has regularly come to Zendesk to work one on one with us. Teaching us how to refactor code, better ways to write clean code and reviewing our pull requests. 
+
+* _Simon_ was a great help to Sophie, when it came to Linux and RVM issues. He provided great knowledge when refactoring our work, with clear explanations.
+
+Both Simon and Adam helped out early on with our applications before our team was selected to participate. They helped us understand which projects may be suitable for us to work on and helped us setup our local environments before the program started.
+
+Also a special thank you to _Luis Ferreira_ who provided coaching to Jenny when she was in Portugal for the European Innovation Academy and who continues to support her even on her return to Melbourne.
+
+A big thank you to everyone at _Zendesk_ for providing a welcoming and supportive environment for us to work.
+
+Thank you to our Project mentor _Julia_, it has been a pleasure working on your project and we look forward to continuing our work on if-me.org. 
+
+Thank you to our RGSoC Supervisor _Vi_, it has been a pleasure getting to know you and the support has been fantastic
+
+Lastly, we would like to say a BIG thank you to the _Organisers of Rails Girls Summer of Code_ and all the sponsors for making this experience possible. This has been such a wonderful experience, we have enjoyed the opportunity to contribute back to the community in a positive way. This is an experience we will never forget!
+
+
 _26th September 2017_
 # Day 38:
 __Hello World!__
